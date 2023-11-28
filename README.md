@@ -4,15 +4,14 @@
 | Compunent | Name |
 | - | - |
 | Motherboard | Machinist X99-G7 |
-| CPU | Intel Xeon E5-2673v3 |
+| CPU | Intel Xeon E5-2666v3 |
 | RAM | Micron DDR3 1333MHz *(OC to 2000MHz)* |
-| GPU | PowerColor RX570 Red Devil 4GB | 
+| GPU | Saphire RX580 Trixx 8Gb | 
 | Storage (NVMe) | Samsung EVO 980 1TB |
 | Storage (SATA) | Apacer AS350 256GB *(macOS disk)*, WD Red 2TB |
-| Wi-Fi + BT | Intel AX210 |
+| Wi-Fi + BT | Broadcom BCM923602CS |
 
 ## Requirements
-* Secure boot (needed for Intel Wi-Fi)
 * Custom BIOS for some hidden settings
 * ACPI Sleep State -> S1 **(S3 doesn't work at all on this motherboard!)**
 
