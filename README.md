@@ -1,5 +1,7 @@
 # Machinist X99-G7 macOS EFI
 
+## This fork will be corrected in some days. Now it is not ready!!!
+
 ## PC configuration
 | Compunent | Name |
 | - | - |
