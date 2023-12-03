@@ -9,7 +9,7 @@
 | CPU | Intel Xeon E5-2666v3 |
 | RAM | Micron DDR3 1333MHz *(OC to 2000MHz)* |
 | GPU | Saphire RX580 8Gb Pulse | 
-| Storage (NVMe) | WD 550 |
+| Storage (NVMe) | WD SN550 |
 | Storage (SATA M2) 256Gb | SATA SSD 128Gb |
 | Wi-Fi + BT | Broadcom BCM923602CS |
 
