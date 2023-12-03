@@ -1,6 +1,6 @@
 # Machinist X99-G7 macOS EFI
 
-## Use zip folder X99G7-2666v3-DDR3!!!
+## Use zip folder X99G7-2666v3-RX580!!!
 
 ## PC configuration
 | Compunent | Name |
