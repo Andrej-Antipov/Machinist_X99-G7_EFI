@@ -1,6 +1,6 @@
 # Machinist X99-G7 macOS EFI
 
-## This fork will be corrected in some days. Now it is not ready!!!
+## Use zip folder X99G7-2666v3-DDR3!!!
 
 ## PC configuration
 | Compunent | Name |
