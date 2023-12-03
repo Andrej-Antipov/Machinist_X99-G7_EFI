@@ -3,7 +3,7 @@
 ## Use only zip folder X99G7-2666v3-RX580!!!
 
 ## PC configuration
-| Compunent | Name |
+| Component | Name |
 | - | - |
 | Motherboard | Machinist X99-G7 |
 | CPU | Intel Xeon E5-2666v3 |
