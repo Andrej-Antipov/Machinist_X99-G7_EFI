@@ -8,7 +8,7 @@
 | Motherboard | Machinist X99-G7 |
 | CPU | Intel Xeon E5-2666v3 |
 | RAM | Desktop DDR3 1867 MHz |
-| GPU | Saphire RX580 8Gb Pulse | 
+| GPU | Sapphire RX580 8Gb Pulse | 
 | Storage (NVMe) | WD SN550 |
 | Storage (SATA) | M2 256Gb + SATA SSD 128Gb |
 | Wi-Fi + BT | Broadcom BCM923602CS |
