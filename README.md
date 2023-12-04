@@ -15,7 +15,6 @@
 
 ## Bugs
 * Very light sleep depth (Motherboard problem)
-* Built-in sound with VoodooHDA only
 
 ## Working
 * CPU
