@@ -34,9 +34,11 @@
 * XHCI mode -> Smart Auto
 * **Set your own SMBIOS serial numbers in config.plist**
 
-VoodooHDA.kext from addons have to copied to /Library/Extensions folder with command:
-sudo cp -R /Path to/VoodooHDA.kext /Library/Extensions/ ; sudo chown -R root:wheel /Library/Extensions/VoodooHDA.kext ; sudo chmod -R 755  /Library/Extensions/VoodooHDA.kext 
-Confirm in the system settings
+If you want VoodooHDA.kext instead of AppleAlc, the kext from addons have to be copied to /Library/Extensions folder with command:
+sudo cp -R /Path to/VoodooHDA.kext /Library/Extensions/ ; sudo chown -R root:wheel /Library/Extensions/VoodooHDA.kext ; sudo chmod -R 755  /Library/Extensions/VoodooHDA.kext
+Confirm in the system settings load the extensions.
+Disable AppleAlc kext and enable AppleHDADisabler.kext in OpenCore config.plist
+
 
 To improve CPU performance use PMDrvr.kext driver from addons, set it up with WakeUpSCr applet.
 Confirm in the system settings
