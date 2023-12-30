@@ -7,7 +7,7 @@
 | - | - |
 | Motherboard | Machinist X99-G7 |
 | CPU | Intel Xeon E5-2666v3 |
-| RAM | Desktop DDR3 1867 MHz |
+| RAM | DDR3 ECC 1867 MHz Samsung 40Gb |
 | GPU | Sapphire RX580 8Gb Pulse | 
 | Storage (NVMe) | WD SN550 |
 | Storage (SATA) | M2 256Gb + SATA SSD 128Gb |
